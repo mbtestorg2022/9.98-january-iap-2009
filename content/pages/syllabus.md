@@ -57,9 +57,54 @@ There will be a final exam for this course. The exam will be a pass/fail multipl
 Calendar
 --------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Basics of neuroscience |
-| 2 | The neurotransmitter systems |
-| 3 | Neuropsychiatric disorders: anxiety, mood disorders |
-| 4 | Neuropsychiatric disorders: schizophrenia, final exam
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Basics of neuroscience
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The neurotransmitter systems
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Neuropsychiatric disorders: anxiety, mood disorders
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Neuropsychiatric disorders: schizophrenia, final exam
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
